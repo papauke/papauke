@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**papauke/papauke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://i.postimg.cc/7YTyc1S6/hs68pm.png">
+  <img src="https://i.postimg.cc/cJv2zwKh/image.png">
+
+</p>
+<p align="center">
+<img src="https://i.postimg.cc/kgP5PjB2/towapat.gif"> 
+      
+<p align="center">
+    <img src="https://i.postimg.cc/cJv2zwKh/image.png">
+    <img src="https://i.postimg.cc/CKJyDcpv/zn6et0.png">
+
+
